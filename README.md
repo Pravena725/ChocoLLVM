@@ -57,4 +57,5 @@ Some useful commands are -
 
 ### A diagrammatic overview of chocollvm
 Please refer to the video resources [provided](https://drive.google.com/drive/folders/1Xc3tFMkWHIvOepwZyWj1mSYqwy-0RLWg?usp=sharing) for a comprehensive explanation.
-![chocollvm](chocollvm.png)
+![chocollvm](![image](https://user-images.githubusercontent.com/85231677/173344762-36bbfb91-0085-44dd-b738-6aafca22daaa.png)
+)
